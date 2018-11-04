@@ -1,0 +1,23 @@
+{
+  "name": "intro_brainjs",
+  "version": "1.0.0",
+  "description": "first time practise with machine learning with brainJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayyidkhan/intro_brainjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayyidkhan/intro_brainjs/issues"
+  },
+  "homepage": "https://github.com/sayyidkhan/intro_brainjs#readme",
+  "dependencies": {
+    "brain.js": "^1.4.2"
+  }
+}
